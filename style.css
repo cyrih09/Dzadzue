@@ -6,4 +6,9 @@
 header{
     background-image: url(.../de.jpg);
     height: 100vh;
+    background-position: center;
+}
+ul{
+    list-style-type: none;
+    
 }
